@@ -9,6 +9,7 @@ The core functionalities are delivered through an interactive web interface wher
 ## Data set
 
 ```https://www.kaggle.com/code/bipinneupane1/retail-spending-pattern-analysis/input?select=retail_data.csv```
+
 Note- i don't own this dataset and all it's user rights are based on kaggle and the owners discretion
 
 ## Core Features
@@ -23,7 +24,7 @@ Note- i don't own this dataset and all it's user rights are based on kaggle and 
 -----
 
 ## Input used
-Different models use different set of input data to predicted and are written below -
+Different models use different set of input data to get prediction and are written below -
 
 * **Clustering (KMeans)**
 
@@ -39,7 +40,7 @@ Different models use different set of input data to predicted and are written be
 
 ## Models & Technologies Used
 
-This project is built using a stack of powerful data science and machine learning technologies:
+This project is built using powerful data science and machine learning technologies:
 
   * **Primary Language:** **Python**
   * **Core Libraries:**
