@@ -61,8 +61,8 @@ First make sure that **Git** is installed
 1.  **Clone the Repository**
 
     ```
-    git clone https://github.com/ATHUL-K-A/customer-segmentation.git
-    cd customer-segmentation
+    git clone https://github.com/ATHUL-K-A/Customer_Segmentation.git
+    cd Customer-Segmentation
     ```
 
 2.  **Install Dependencies**
