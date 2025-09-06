@@ -62,13 +62,12 @@ First make sure that **Git** is installed
 
     ```
     git clone https://github.com/ATHUL-K-A/Customer_Segmentation.git
-    cd Customer-Segmentation
+    cd Customer_Segmentation-master
     ```
 
 2.  **Install Dependencies**
     Ensure you have Python installed. Then, install the required libraries from the `requirements.txt` file.
 
-    open terminal in the folder with **requirements.txt**
 
     ```
     pip install -r requirements.txt
